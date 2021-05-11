@@ -1,5 +1,5 @@
 # python
-Complete '''Python''' Tools
+Complete ```Python``` Tools
 
 1. Scapy Scanner
 2. Brute Force Squad
